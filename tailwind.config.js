@@ -10,7 +10,10 @@ module.exports = {
       'off-white': '#f5f1e6',
       'mid-green': '#68902b',
       'dark-green': '#49681d',
-      'yellow': '#fada5e'
+      'yellow': '#fada5e',
+      'light-brown': '#a67c52',
+      'blue': '#79a8a9',
+      'red-brown': '#d46a4d'
     }
   },
   plugins: [],
